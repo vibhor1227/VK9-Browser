@@ -6,7 +6,7 @@ It includes some basic fuctionality as:
 2)Reload button
 3) Home button
 4) Search Box
-
+### Tech. used- Python and PyQt5 web framework.
 ### Built in-PyCharm IDE. 
 PyQt5 is a comprehensive set of Python bindings for Qt v5. It is implemented as more than 35 extension modules 
 and enables Python to be used as an alternative application development language to C++ 
